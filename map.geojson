@@ -1,1 +1,2011 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato dell’Aquila","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-dellaquila/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=129","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=129&descrizione=Archivio%20di%20Stato%20dell’Aquila"},"geometry":{"type":"Point","coordinates":[13.46229663,42.34221587]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Agrigento","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-agrigento/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=220","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=220&descrizione=Archivio%20di%20Stato%20di%20Agrigento"},"geometry":{"type":"Point","coordinates":[13.6202096,37.40658248]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Alessandria","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-alessandria/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[8.626053643,44.91394356]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Ancona","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ancona/","Archive link":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ancona/","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=188&descrizione=Archivio%20di%20Stato%20di%20Ancona"},"geometry":{"type":"Point","coordinates":[13.50371983,43.59766248]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Arezzo","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-arezzo/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=234","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=234&descrizione=Archivio%20di%20Stato%20di%20Arezzo"},"geometry":{"type":"Point","coordinates":[11.87293013,43.46514387]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Ascoli Piceno","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ascoli-piceno/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=189","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=189&descrizione=Archivio%20di%20Stato%20di%20Ascoli%20Piceno"},"geometry":{"type":"Point","coordinates":[13.56687666,42.85750657]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Asti","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-asti/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=199","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=199&descrizione=Archivio%20di%20Stato%20di%20Asti"},"geometry":{"type":"Point","coordinates":[8.199048727,44.89577788]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Avellino","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-avellino/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=146","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=146&descrizione=Archivio%20di%20Stato%20di%20Avellino"},"geometry":{"type":"Point","coordinates":[14.7878862,40.91457509]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Bari","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bari/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=208","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=208&descrizione=Archivio%20di%20Stato%20di%20Bari"},"geometry":{"type":"Point","coordinates":[16.84687633,41.12905286]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Belluno","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-belluno/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=256","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=256&descrizione=Archivio%20di%20Stato%20di%20Belluno"},"geometry":{"type":"Point","coordinates":[12.22015927,46.13675998]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Benevento","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-benevento/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=147","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=147&descrizione=Archivio%20di%20Stato%20di%20Benevento"},"geometry":{"type":"Point","coordinates":[14.77410478,41.12848594]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Bergamo","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bergamo/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=179","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=179&descrizione=Archivio%20di%20Stato%20di%20Bergamo"},"geometry":{"type":"Point","coordinates":[9.687471598,45.70254148]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Biella","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-biella/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=200","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=200&descrizione=Archivio%20di%20Stato%20di%20Biella"},"geometry":{"type":"Point","coordinates":[8.050329998,45.56470998]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Bologna","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bologna/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=151","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=151&descrizione=Archivio%20di%20Stato%20di%20Bologna"},"geometry":{"type":"Point","coordinates":[11.34138733,44.49220263]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Bologna","Archive section":"Sezione di Imola","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bologna-sezione-di-imola/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=152","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=152&descrizione=Archivio%20di%20Stato%20di%20Bologna"},"geometry":{"type":"Point","coordinates":[11.711055,44.35556439]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Bolzano","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bolzano/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[11.34361083,46.50318216]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Brescia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-brescia/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=180","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=180&descrizione=Archivio%20di%20Stato%20di%20Brescia"},"geometry":{"type":"Point","coordinates":[10.2272369,45.54721838]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Brindisi","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-brindisi/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=211","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=211&descrizione=Archivio%20di%20Stato%20di%20Brindisi"},"geometry":{"type":"Point","coordinates":[17.94360053,40.6409909]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Cagliari","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cagliari/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[9.119882827,39.21347808]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Caltanissetta","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-caltanissetta/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=222","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=222&descrizione=Archivio%20di%20Stato%20di%20Caltanissetta"},"geometry":{"type":"Point","coordinates":[14.04617151,37.49370184]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Campobasso","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-campobasso/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=196","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=196&descrizione=Archivio%20di%20Stato%20di%20Campobasso"},"geometry":{"type":"Point","coordinates":[14.65996862,41.56188392]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Caserta","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-caserta/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=148","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=148&descrizione=Archivio%20di%20Stato%20di%20Caserta"},"geometry":{"type":"Point","coordinates":[14.35140803,41.07355442]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Catania","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-catania/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=223","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=223&descrizione=Archivio%20di%20Stato%20di%20Catania"},"geometry":{"type":"Point","coordinates":[15.08925483,37.50308583]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Catanzaro","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-catanzaro/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=138","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=138&descrizione=Archivio%20di%20Stato%20di%20Catanzaro"},"geometry":{"type":"Point","coordinates":[16.5927759,38.90410683]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Chieti","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-chieti/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=132","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=132&descrizione=Archivio%20di%20Stato%20di%20Chieti"},"geometry":{"type":"Point","coordinates":[14.18389293,42.35060678]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Como","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-como/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=181","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=181&descrizione=Archivio%20di%20Stato%20di%20Como"},"geometry":{"type":"Point","coordinates":[9.095322712,45.80614026]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Cosenza","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cosenza/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=140","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=140&descrizione=Archivio%20di%20Stato%20di%20Cosenza"},"geometry":{"type":"Point","coordinates":[16.2603936,39.29183768]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Cremona","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cremona/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=182","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=182&descrizione=Archivio%20di%20Stato%20di%20Cremona"},"geometry":{"type":"Point","coordinates":[10.02247563,45.13949691]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Cuneo","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cuneo/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=201","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=201&descrizione=Archivio%20di%20Stato%20di%20Cuneo"},"geometry":{"type":"Point","coordinates":[7.544017727,44.39059175]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Enna","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-enna/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=225","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=225&descrizione=Archivio%20di%20Stato%20di%20Enna"},"geometry":{"type":"Point","coordinates":[14.2898565,37.54884302]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Fermo","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-fermo/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[13.71903946,43.16052978]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Ferrara","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ferrara/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[11.62679227,44.8349091]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Firenze","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-firenze/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=235","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=235&descrizione=Archivio%20di%20Stato%20di%20Firenze"},"geometry":{"type":"Point","coordinates":[11.26966833,43.76829598]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Foggia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-foggia/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=212","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=212&descrizione=Archivio%20di%20Stato%20di%20Foggia"},"geometry":{"type":"Point","coordinates":[15.54509426,41.46207492]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Foggia","Archive section":"Sezione di Lucera","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-foggia-sezione-di-lucera/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=213","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=213&descrizione=Archivio%20di%20Stato%20di%20Foggia"},"geometry":{"type":"Point","coordinates":[15.331607,41.51028301]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Forlì-Cesena","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-forli-cesena/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=154","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=154&descrizione=Archivio%20di%20Stato%20di%20Forlì-Cesena"},"geometry":{"type":"Point","coordinates":[12.04015671,44.22698513]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Frosinone","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-frosinone/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=167","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=167&descrizione=Archivio%20di%20Stato%20di%20Frosinone"},"geometry":{"type":"Point","coordinates":[13.34842377,41.6470363]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Genova","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-genova-2/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=173","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=173&descrizione=Archivio%20di%20Stato%20di%20Genova"},"geometry":{"type":"Point","coordinates":[8.936683312,44.40287414]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Gorizia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-gorizia/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[13.62092471,45.95016074]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Grosseto","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-grosseto/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=236","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=236&descrizione=Archivio%20di%20Stato%20di%20Grosseto"},"geometry":{"type":"Point","coordinates":[10.89193127,43.05075198]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Imperia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-imperia/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=174","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=174&descrizione=Archivio%20di%20Stato%20di%20Imperia"},"geometry":{"type":"Point","coordinates":[8.020285985,43.88237811]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Imperia","Archive section":"Sezione di Sanremo","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-imperia-sezione-di-sanremo/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=175","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=175&descrizione=Archivio%20di%20Stato%20di%20Imperia"},"geometry":{"type":"Point","coordinates":[7.799834327,43.82314869]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Imperia","Archive section":"Sezione di Ventimiglia","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-imperia-sezione-di-ventimiglia/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=176","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=176&descrizione=Archivio%20di%20Stato%20di%20Imperia"},"geometry":{"type":"Point","coordinates":[7.609090298,43.79228458]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Isernia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-isernia/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=197","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=197&descrizione=Archivio%20di%20Stato%20di%20Isernia"},"geometry":{"type":"Point","coordinates":[14.23818668,41.59761359]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di La Spezia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-la-spezia/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=177","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=177&descrizione=Archivio%20di%20Stato%20di%20La%20Spezia"},"geometry":{"type":"Point","coordinates":[9.826203698,44.11406449]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Latina","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-latina/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=169","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=169&descrizione=Archivio%20di%20Stato%20di%20Latina"},"geometry":{"type":"Point","coordinates":[12.9291183,41.4585055]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Lecce","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-lecce/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=214","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=214&descrizione=Archivio%20di%20Stato%20di%20Lecce"},"geometry":{"type":"Point","coordinates":[18.16243243,40.35366961]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Livorno","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-livorno/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[10.30682197,43.55088705]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Lucca","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-lucca/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=238","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=238&descrizione=Archivio%20di%20Stato%20di%20Lucca"},"geometry":{"type":"Point","coordinates":[10.25178836,43.86808344]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Macerata","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-macerata/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=191","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=191&descrizione=Archivio%20di%20Stato%20di%20Macerata"},"geometry":{"type":"Point","coordinates":[13.45634226,43.29573499]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Mantova","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-mantova/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=183","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=183&descrizione=Archivio%20di%20Stato%20di%20Mantova"},"geometry":{"type":"Point","coordinates":[10.79692437,45.15801921]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Massa","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-massa/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=240","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=240&descrizione=Archivio%20di%20Stato%20di%20Massa"},"geometry":{"type":"Point","coordinates":[10.1377229,44.03746819]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Massa","Archive section":"Sezione di Pontremoli","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-massa-sezione-di-pontremoli/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=241","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=241&descrizione=Archivio%20di%20Stato%20di%20Massa"},"geometry":{"type":"Point","coordinates":[9.888197198,44.36393818]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Matera","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-matera/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=136","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=136&descrizione=Archivio%20di%20Stato%20di%20Matera"},"geometry":{"type":"Point","coordinates":[16.6080211,40.66870704]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Messina","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-messina/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=226","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=226&descrizione=Archivio%20di%20Stato%20di%20Messina"},"geometry":{"type":"Point","coordinates":[15.54783323,38.17251898]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Milano","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-milano/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[9.198814898,45.4703572]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Modena","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-modena/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=156","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=156&descrizione=Archivio%20di%20Stato%20di%20Modena"},"geometry":{"type":"Point","coordinates":[10.92787477,44.65003271]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Napoli","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-napoli/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=149","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=149&descrizione=Archivio%20di%20Stato%20di%20Napoli"},"geometry":{"type":"Point","coordinates":[14.2596243,40.84862303]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Novara","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-novara/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[8.624522114,45.44746072]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Nuoro","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-nuoro/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[9.335381612,40.31822008]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Oristano","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-oristano/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[8.602987865,39.90285708]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Padova","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-padova-2/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=257","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=257&descrizione=Archivio%20di%20Stato%20di%20Padova"},"geometry":{"type":"Point","coordinates":[11.8352252,45.39745771]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Palermo","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-palermo/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=227","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=227&descrizione=Archivio%20di%20Stato%20di%20Palermo"},"geometry":{"type":"Point","coordinates":[13.36984977,38.1192139]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Parma","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-parma/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[10.31929763,44.80340902]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Pavia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pavia/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[9.152859827,45.18367554]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Perugia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[12.39127126,43.10685388]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Perugia","Archive section":"Sezione di Assisi","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-assisi/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[12.61567746,43.07061579]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Perugia","Archive section":"Sezione di Foligno","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-foligno-2/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[12.70195903,42.95633754]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Perugia","Archive section":"Sezione di Gubbio","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-gubbio/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[12.57590333,43.35223038]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Perugia","Archive section":"Sezione di Spoleto","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-spoleto/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[12.7308,42.73373998]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Pesaro Urbino","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pesaro-urbino/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=193","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=193&descrizione=Archivio%20di%20Stato%20di%20Pesaro%20Urbino"},"geometry":{"type":"Point","coordinates":[12.90680333,43.91278451]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Pesaro Urbino","Archive section":"Sezione di Fano","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pesaro-urbino-sezione-di-fano/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=194","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=194&descrizione=Archivio%20di%20Stato%20di%20Pesaro%20Urbino"},"geometry":{"type":"Point","coordinates":[13.02030073,43.84422319]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Pesaro Urbino","Archive section":"Sezione di Urbino","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pesaro-urbino-sezione-di-urbino/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=195","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=195&descrizione=Archivio%20di%20Stato%20di%20Pesaro%20Urbino"},"geometry":{"type":"Point","coordinates":[12.63595963,43.72936918]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Pescara","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pescara/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=134","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=134&descrizione=Archivio%20di%20Stato%20di%20Pescara"},"geometry":{"type":"Point","coordinates":[14.2361745,42.4538352]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Piacenza","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-piacenza/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[9.695133556,45.05513976]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Pisa","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pisa/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[10.4058139,43.71546588]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Pistoia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pistoia/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=243","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=243&descrizione=Archivio%20di%20Stato%20di%20Pistoia"},"geometry":{"type":"Point","coordinates":[10.9161656,43.93492201]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Pistoia","Archive section":"Sezione di Pescia","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pistoia-sezione-di-pescia-2/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[10.68903977,43.90091051]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Pordenone","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pordenone/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[12.654377,45.96348028]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Potenza","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-potenza/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=137","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=137&descrizione=Archivio%20di%20Stato%20di%20Potenza"},"geometry":{"type":"Point","coordinates":[15.8075192,40.63109901]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Prato","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-prato/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=245","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=245&descrizione=Archivio%20di%20Stato%20di%20Prato"},"geometry":{"type":"Point","coordinates":[11.0954388,43.88018031]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Ragusa","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ragusa/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=229","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=229&descrizione=Archivio%20di%20Stato%20di%20Ragusa"},"geometry":{"type":"Point","coordinates":[14.72634403,36.9219684]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Ravenna","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ravenna/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[12.19540073,44.42039596]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Ravenna","Archive section":"Sezione di Faenza","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ravenna-sezione-di-faenza/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[11.88506077,44.28434408]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Reggio Calabria","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-reggio-calabria/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=142","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=142&descrizione=Archivio%20di%20Stato%20di%20Reggio%20Calabria"},"geometry":{"type":"Point","coordinates":[15.6607948,38.12496544]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Reggio Calabria","Archive section":"Sezione di Locri","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-reggio-calabria-sezione-di-locri/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[16.2581752,38.23041691]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Reggio Emilia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-reggio-emilia/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=161","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=161&descrizione=Archivio%20di%20Stato%20di%20Reggio%20Emilia"},"geometry":{"type":"Point","coordinates":[10.62812903,44.70077461]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Rieti","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-rieti/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=170","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=170&descrizione=Archivio%20di%20Stato%20di%20Rieti"},"geometry":{"type":"Point","coordinates":[12.85913621,42.40511498]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Rimini","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-rimini/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[12.56780311,44.05827479]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Roma","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-roma/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=171","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=171&descrizione=Archivio%20di%20Stato%20di%20Roma"},"geometry":{"type":"Point","coordinates":[12.4744694,41.89836074]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Rovigo","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-rovigo/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[11.79111068,45.06733066]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Salerno","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-salerno/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=150","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=150&descrizione=Archivio%20di%20Stato%20di%20Salerno"},"geometry":{"type":"Point","coordinates":[14.758338,40.68056902]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Sassari","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-sassari/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[8.558303198,40.72506391]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Savona","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-savona/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=178","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=178&descrizione=Archivio%20di%20Stato%20di%20Savona"},"geometry":{"type":"Point","coordinates":[8.456684198,44.29866052]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Siena","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-siena/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[11.33296387,43.31896378]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Siracusa","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-siracusa/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=231","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=231&descrizione=Archivio%20di%20Stato%20di%20Siracusa"},"geometry":{"type":"Point","coordinates":[15.2806043,37.09195095]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Siracusa","Archive section":"Sezione di Noto","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-siracusa-sezione-di-noto/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=232","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=232&descrizione=Archivio%20di%20Stato%20di%20Siracusa"},"geometry":{"type":"Point","coordinates":[15.0716964,36.89254088]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Sondrio","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-sondrio/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[9.870653256,46.17144883]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Taranto","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-taranto/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=215","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=215&descrizione=Archivio%20di%20Stato%20di%20Taranto"},"geometry":{"type":"Point","coordinates":[17.24383276,40.47110536]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Teramo","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-teramo/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=135","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=135&descrizione=Archivio%20di%20Stato%20di%20Teramo"},"geometry":{"type":"Point","coordinates":[13.7005439,42.65691368]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Terni","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-terni/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[12.64571923,42.56213598]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Terni","Archive section":"Sezione di Orvieto","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-terni-sezione-di-orvieto/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[12.11247773,42.71709231]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Torino","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-torino/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=203","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=203&descrizione=Archivio%20di%20Stato%20di%20Torino"},"geometry":{"type":"Point","coordinates":[7.687803927,45.07120176]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Trapani","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-trapani/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=233","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=233&descrizione=Archivio%20di%20Stato%20di%20Trapani"},"geometry":{"type":"Point","coordinates":[12.50831054,38.01636297]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Trento","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-trento/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[11.10969967,46.08832108]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Treviso","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-treviso/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=259","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=259&descrizione=Archivio%20di%20Stato%20di%20Treviso"},"geometry":{"type":"Point","coordinates":[12.24779463,45.66234288]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Trieste","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-trieste-2/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=165","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=165&descrizione=Archivio%20di%20Stato%20di%20Trieste"},"geometry":{"type":"Point","coordinates":[13.79686161,45.64027738]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Udine","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-udine/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=166","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=166&descrizione=Archivio%20di%20Stato%20di%20Udine"},"geometry":{"type":"Point","coordinates":[13.22279917,46.06836904]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Varese","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-varese/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[8.816097898,45.81618336]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Venezia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-venezia/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=260","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=260&descrizione=Archivio%20di%20Stato%20di%20Venezia"},"geometry":{"type":"Point","coordinates":[12.32663076,45.43745779]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Verbania","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-verbania/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=205","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=205&descrizione=Archivio%20di%20Stato%20di%20Verbania"},"geometry":{"type":"Point","coordinates":[8.550474198,45.92311538]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Vercelli","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vercelli/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[8.421464527,45.32300458]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Vercelli","Archive section":"Sezione di Varallo","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vercelli-sezione-di-varallo/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[8.248203698,45.81534331]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Verona","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-verona/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=261","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=261&descrizione=Archivio%20di%20Stato%20di%20Verona"},"geometry":{"type":"Point","coordinates":[10.98506323,45.42012528]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Vibo Valentia","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vibo-valentia/","Archive link":"","Archive search":""},"geometry":{"type":"Point","coordinates":[16.0963805,38.67425006]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Vicenza","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vicenza/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=262","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=262&descrizione=Archivio%20di%20Stato%20di%20Vicenza"},"geometry":{"type":"Point","coordinates":[11.55999417,45.54543527]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Vicenza","Archive section":"Sezione di Bassano del Grappa","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vicenza-sezione-di-bassano-del-grappa/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=263","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=263&descrizione=Archivio%20di%20Stato%20di%20Vicenza"},"geometry":{"type":"Point","coordinates":[11.73684927,45.76382992]}},{"type":"Feature","properties":{"Name of Archive":"Archivio di Stato di Viterbo","Archive section":"","Archive about":"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-viterbo/","Archive link":"https://www.antenati.san.beniculturali.it/archive/?archivio=172","Archive search":"https://www.antenati.san.beniculturali.it/search-registry/?archivio=172&descrizione=Archivio%20di%20Stato%20di%20Viterbo"},"geometry":{"type":"Point","coordinates":[12.1026985,42.42892014]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato dell’Aquila",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-dellaquila/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-dellaquila/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=129\">https://www.antenati.san.beniculturali.it/archive/?archivio=129</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=129&descrizione=Archivio%20di%20Stato%20dell’Aquila\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=129&descrizione=Archivio%20di%20Stato%20dell’Aquila</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46229663,
+          42.34221587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Agrigento",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-agrigento/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-agrigento/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=220\">https://www.antenati.san.beniculturali.it/archive/?archivio=220</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=220&descrizione=Archivio%20di%20Stato%20di%20Agrigento\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=220&descrizione=Archivio%20di%20Stato%20di%20Agrigento</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6202096,
+          37.40658248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Alessandria",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-alessandria/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-alessandria/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.626053643,
+          44.91394356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Ancona",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ancona/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ancona/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ancona/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ancona/</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=188&descrizione=Archivio%20di%20Stato%20di%20Ancona\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=188&descrizione=Archivio%20di%20Stato%20di%20Ancona</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50371983,
+          43.59766248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Arezzo",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-arezzo/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-arezzo/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=234\">https://www.antenati.san.beniculturali.it/archive/?archivio=234</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=234&descrizione=Archivio%20di%20Stato%20di%20Arezzo\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=234&descrizione=Archivio%20di%20Stato%20di%20Arezzo</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87293013,
+          43.46514387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Ascoli Piceno",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ascoli-piceno/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ascoli-piceno/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=189\">https://www.antenati.san.beniculturali.it/archive/?archivio=189</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=189&descrizione=Archivio%20di%20Stato%20di%20Ascoli%20Piceno\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=189&descrizione=Archivio%20di%20Stato%20di%20Ascoli%20Piceno</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56687666,
+          42.85750657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Asti",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-asti/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-asti/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=199\">https://www.antenati.san.beniculturali.it/archive/?archivio=199</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=199&descrizione=Archivio%20di%20Stato%20di%20Asti\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=199&descrizione=Archivio%20di%20Stato%20di%20Asti</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.199048727,
+          44.89577788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Avellino",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-avellino/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-avellino/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=146\">https://www.antenati.san.beniculturali.it/archive/?archivio=146</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=146&descrizione=Archivio%20di%20Stato%20di%20Avellino\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=146&descrizione=Archivio%20di%20Stato%20di%20Avellino</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7878862,
+          40.91457509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Bari",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bari/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bari/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=208\">https://www.antenati.san.beniculturali.it/archive/?archivio=208</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=208&descrizione=Archivio%20di%20Stato%20di%20Bari\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=208&descrizione=Archivio%20di%20Stato%20di%20Bari</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.84687633,
+          41.12905286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Belluno",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-belluno/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-belluno/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=256\">https://www.antenati.san.beniculturali.it/archive/?archivio=256</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=256&descrizione=Archivio%20di%20Stato%20di%20Belluno\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=256&descrizione=Archivio%20di%20Stato%20di%20Belluno</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22015927,
+          46.13675998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Benevento",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-benevento/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-benevento/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=147\">https://www.antenati.san.beniculturali.it/archive/?archivio=147</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=147&descrizione=Archivio%20di%20Stato%20di%20Benevento\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=147&descrizione=Archivio%20di%20Stato%20di%20Benevento</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.77410478,
+          41.12848594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Bergamo",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bergamo/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bergamo/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=179\">https://www.antenati.san.beniculturali.it/archive/?archivio=179</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=179&descrizione=Archivio%20di%20Stato%20di%20Bergamo\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=179&descrizione=Archivio%20di%20Stato%20di%20Bergamo</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.687471598,
+          45.70254148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Biella",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-biella/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-biella/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=200\">https://www.antenati.san.beniculturali.it/archive/?archivio=200</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=200&descrizione=Archivio%20di%20Stato%20di%20Biella\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=200&descrizione=Archivio%20di%20Stato%20di%20Biella</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.050329998,
+          45.56470998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Bologna",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bologna/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bologna/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=151\">https://www.antenati.san.beniculturali.it/archive/?archivio=151</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=151&descrizione=Archivio%20di%20Stato%20di%20Bologna\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=151&descrizione=Archivio%20di%20Stato%20di%20Bologna</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.34138733,
+          44.49220263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Bologna",
+        "Archive section": "Sezione di Imola",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bologna-sezione-di-imola/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bologna-sezione-di-imola/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=152\">https://www.antenati.san.beniculturali.it/archive/?archivio=152</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=152&descrizione=Archivio%20di%20Stato%20di%20Bologna\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=152&descrizione=Archivio%20di%20Stato%20di%20Bologna</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.711055,
+          44.35556439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Bolzano",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bolzano/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-bolzano/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.34361083,
+          46.50318216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Brescia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-brescia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-brescia/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=180\">https://www.antenati.san.beniculturali.it/archive/?archivio=180</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=180&descrizione=Archivio%20di%20Stato%20di%20Brescia\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=180&descrizione=Archivio%20di%20Stato%20di%20Brescia</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2272369,
+          45.54721838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Brindisi",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-brindisi/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-brindisi/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=211\">https://www.antenati.san.beniculturali.it/archive/?archivio=211</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=211&descrizione=Archivio%20di%20Stato%20di%20Brindisi\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=211&descrizione=Archivio%20di%20Stato%20di%20Brindisi</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.94360053,
+          40.6409909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Cagliari",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cagliari/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cagliari/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.119882827,
+          39.21347808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Caltanissetta",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-caltanissetta/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-caltanissetta/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=222\">https://www.antenati.san.beniculturali.it/archive/?archivio=222</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=222&descrizione=Archivio%20di%20Stato%20di%20Caltanissetta\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=222&descrizione=Archivio%20di%20Stato%20di%20Caltanissetta</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.04617151,
+          37.49370184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Campobasso",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-campobasso/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-campobasso/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=196\">https://www.antenati.san.beniculturali.it/archive/?archivio=196</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=196&descrizione=Archivio%20di%20Stato%20di%20Campobasso\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=196&descrizione=Archivio%20di%20Stato%20di%20Campobasso</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.65996862,
+          41.56188392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Caserta",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-caserta/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-caserta/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=148\">https://www.antenati.san.beniculturali.it/archive/?archivio=148</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=148&descrizione=Archivio%20di%20Stato%20di%20Caserta\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=148&descrizione=Archivio%20di%20Stato%20di%20Caserta</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.35140803,
+          41.07355442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Catania",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-catania/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-catania/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=223\">https://www.antenati.san.beniculturali.it/archive/?archivio=223</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=223&descrizione=Archivio%20di%20Stato%20di%20Catania\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=223&descrizione=Archivio%20di%20Stato%20di%20Catania</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.08925483,
+          37.50308583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Catanzaro",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-catanzaro/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-catanzaro/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=138\">https://www.antenati.san.beniculturali.it/archive/?archivio=138</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=138&descrizione=Archivio%20di%20Stato%20di%20Catanzaro\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=138&descrizione=Archivio%20di%20Stato%20di%20Catanzaro</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5927759,
+          38.90410683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Chieti",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-chieti/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-chieti/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=132\">https://www.antenati.san.beniculturali.it/archive/?archivio=132</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=132&descrizione=Archivio%20di%20Stato%20di%20Chieti\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=132&descrizione=Archivio%20di%20Stato%20di%20Chieti</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.18389293,
+          42.35060678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Como",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-como/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-como/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=181\">https://www.antenati.san.beniculturali.it/archive/?archivio=181</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=181&descrizione=Archivio%20di%20Stato%20di%20Como\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=181&descrizione=Archivio%20di%20Stato%20di%20Como</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.095322712,
+          45.80614026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Cosenza",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cosenza/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cosenza/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=140\">https://www.antenati.san.beniculturali.it/archive/?archivio=140</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=140&descrizione=Archivio%20di%20Stato%20di%20Cosenza\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=140&descrizione=Archivio%20di%20Stato%20di%20Cosenza</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2603936,
+          39.29183768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Cremona",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cremona/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cremona/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=182\">https://www.antenati.san.beniculturali.it/archive/?archivio=182</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=182&descrizione=Archivio%20di%20Stato%20di%20Cremona\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=182&descrizione=Archivio%20di%20Stato%20di%20Cremona</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02247563,
+          45.13949691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Cuneo",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cuneo/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-cuneo/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=201\">https://www.antenati.san.beniculturali.it/archive/?archivio=201</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=201&descrizione=Archivio%20di%20Stato%20di%20Cuneo\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=201&descrizione=Archivio%20di%20Stato%20di%20Cuneo</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.544017727,
+          44.39059175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Enna",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-enna/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-enna/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=225\">https://www.antenati.san.beniculturali.it/archive/?archivio=225</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=225&descrizione=Archivio%20di%20Stato%20di%20Enna\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=225&descrizione=Archivio%20di%20Stato%20di%20Enna</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2898565,
+          37.54884302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Fermo",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-fermo/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-fermo/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.71903946,
+          43.16052978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Ferrara",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ferrara/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ferrara/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62679227,
+          44.8349091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Firenze",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-firenze/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-firenze/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=235\">https://www.antenati.san.beniculturali.it/archive/?archivio=235</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=235&descrizione=Archivio%20di%20Stato%20di%20Firenze\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=235&descrizione=Archivio%20di%20Stato%20di%20Firenze</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26966833,
+          43.76829598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Foggia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-foggia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-foggia/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=212\">https://www.antenati.san.beniculturali.it/archive/?archivio=212</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=212&descrizione=Archivio%20di%20Stato%20di%20Foggia\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=212&descrizione=Archivio%20di%20Stato%20di%20Foggia</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.54509426,
+          41.46207492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Foggia",
+        "Archive section": "Sezione di Lucera",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-foggia-sezione-di-lucera/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-foggia-sezione-di-lucera/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=213\">https://www.antenati.san.beniculturali.it/archive/?archivio=213</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=213&descrizione=Archivio%20di%20Stato%20di%20Foggia\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=213&descrizione=Archivio%20di%20Stato%20di%20Foggia</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.331607,
+          41.51028301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Forlì-Cesena",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-forli-cesena/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-forli-cesena/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=154\">https://www.antenati.san.beniculturali.it/archive/?archivio=154</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=154&descrizione=Archivio%20di%20Stato%20di%20Forlì-Cesena\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=154&descrizione=Archivio%20di%20Stato%20di%20Forlì-Cesena</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.04015671,
+          44.22698513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Frosinone",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-frosinone/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-frosinone/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=167\">https://www.antenati.san.beniculturali.it/archive/?archivio=167</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=167&descrizione=Archivio%20di%20Stato%20di%20Frosinone\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=167&descrizione=Archivio%20di%20Stato%20di%20Frosinone</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34842377,
+          41.6470363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Genova",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-genova-2/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-genova-2/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=173\">https://www.antenati.san.beniculturali.it/archive/?archivio=173</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=173&descrizione=Archivio%20di%20Stato%20di%20Genova\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=173&descrizione=Archivio%20di%20Stato%20di%20Genova</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.936683312,
+          44.40287414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Gorizia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-gorizia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-gorizia/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62092471,
+          45.95016074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Grosseto",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-grosseto/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-grosseto/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=236\">https://www.antenati.san.beniculturali.it/archive/?archivio=236</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=236&descrizione=Archivio%20di%20Stato%20di%20Grosseto\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=236&descrizione=Archivio%20di%20Stato%20di%20Grosseto</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.89193127,
+          43.05075198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Imperia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-imperia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-imperia/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=174\">https://www.antenati.san.beniculturali.it/archive/?archivio=174</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=174&descrizione=Archivio%20di%20Stato%20di%20Imperia\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=174&descrizione=Archivio%20di%20Stato%20di%20Imperia</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.020285985,
+          43.88237811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Imperia",
+        "Archive section": "Sezione di Sanremo",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-imperia-sezione-di-sanremo/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-imperia-sezione-di-sanremo/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=175\">https://www.antenati.san.beniculturali.it/archive/?archivio=175</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=175&descrizione=Archivio%20di%20Stato%20di%20Imperia\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=175&descrizione=Archivio%20di%20Stato%20di%20Imperia</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.799834327,
+          43.82314869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Imperia",
+        "Archive section": "Sezione di Ventimiglia",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-imperia-sezione-di-ventimiglia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-imperia-sezione-di-ventimiglia/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=176\">https://www.antenati.san.beniculturali.it/archive/?archivio=176</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=176&descrizione=Archivio%20di%20Stato%20di%20Imperia\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=176&descrizione=Archivio%20di%20Stato%20di%20Imperia</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609090298,
+          43.79228458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Isernia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-isernia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-isernia/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=197\">https://www.antenati.san.beniculturali.it/archive/?archivio=197</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=197&descrizione=Archivio%20di%20Stato%20di%20Isernia\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=197&descrizione=Archivio%20di%20Stato%20di%20Isernia</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.23818668,
+          41.59761359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di La Spezia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-la-spezia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-la-spezia/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=177\">https://www.antenati.san.beniculturali.it/archive/?archivio=177</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=177&descrizione=Archivio%20di%20Stato%20di%20La%20Spezia\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=177&descrizione=Archivio%20di%20Stato%20di%20La%20Spezia</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.826203698,
+          44.11406449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Latina",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-latina/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-latina/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=169\">https://www.antenati.san.beniculturali.it/archive/?archivio=169</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=169&descrizione=Archivio%20di%20Stato%20di%20Latina\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=169&descrizione=Archivio%20di%20Stato%20di%20Latina</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9291183,
+          41.4585055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Lecce",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-lecce/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-lecce/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=214\">https://www.antenati.san.beniculturali.it/archive/?archivio=214</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=214&descrizione=Archivio%20di%20Stato%20di%20Lecce\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=214&descrizione=Archivio%20di%20Stato%20di%20Lecce</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.16243243,
+          40.35366961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Livorno",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-livorno/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-livorno/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.30682197,
+          43.55088705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Lucca",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-lucca/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-lucca/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=238\">https://www.antenati.san.beniculturali.it/archive/?archivio=238</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=238&descrizione=Archivio%20di%20Stato%20di%20Lucca\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=238&descrizione=Archivio%20di%20Stato%20di%20Lucca</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.25178836,
+          43.86808344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Macerata",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-macerata/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-macerata/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=191\">https://www.antenati.san.beniculturali.it/archive/?archivio=191</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=191&descrizione=Archivio%20di%20Stato%20di%20Macerata\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=191&descrizione=Archivio%20di%20Stato%20di%20Macerata</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45634226,
+          43.29573499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Mantova",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-mantova/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-mantova/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=183\">https://www.antenati.san.beniculturali.it/archive/?archivio=183</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=183&descrizione=Archivio%20di%20Stato%20di%20Mantova\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=183&descrizione=Archivio%20di%20Stato%20di%20Mantova</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79692437,
+          45.15801921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Massa",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-massa/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-massa/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=240\">https://www.antenati.san.beniculturali.it/archive/?archivio=240</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=240&descrizione=Archivio%20di%20Stato%20di%20Massa\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=240&descrizione=Archivio%20di%20Stato%20di%20Massa</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1377229,
+          44.03746819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Massa",
+        "Archive section": "Sezione di Pontremoli",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-massa-sezione-di-pontremoli/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-massa-sezione-di-pontremoli/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=241\">https://www.antenati.san.beniculturali.it/archive/?archivio=241</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=241&descrizione=Archivio%20di%20Stato%20di%20Massa\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=241&descrizione=Archivio%20di%20Stato%20di%20Massa</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.888197198,
+          44.36393818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Matera",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-matera/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-matera/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=136\">https://www.antenati.san.beniculturali.it/archive/?archivio=136</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=136&descrizione=Archivio%20di%20Stato%20di%20Matera\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=136&descrizione=Archivio%20di%20Stato%20di%20Matera</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6080211,
+          40.66870704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Messina",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-messina/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-messina/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=226\">https://www.antenati.san.beniculturali.it/archive/?archivio=226</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=226&descrizione=Archivio%20di%20Stato%20di%20Messina\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=226&descrizione=Archivio%20di%20Stato%20di%20Messina</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.54783323,
+          38.17251898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Milano",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-milano/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-milano/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.198814898,
+          45.4703572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Modena",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-modena/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-modena/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=156\">https://www.antenati.san.beniculturali.it/archive/?archivio=156</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=156&descrizione=Archivio%20di%20Stato%20di%20Modena\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=156&descrizione=Archivio%20di%20Stato%20di%20Modena</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.92787477,
+          44.65003271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Napoli",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-napoli/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-napoli/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=149\">https://www.antenati.san.beniculturali.it/archive/?archivio=149</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=149&descrizione=Archivio%20di%20Stato%20di%20Napoli\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=149&descrizione=Archivio%20di%20Stato%20di%20Napoli</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2596243,
+          40.84862303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Novara",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-novara/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-novara/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.624522114,
+          45.44746072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Nuoro",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-nuoro/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-nuoro/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.335381612,
+          40.31822008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Oristano",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-oristano/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-oristano/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.602987865,
+          39.90285708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Padova",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-padova-2/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-padova-2/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=257\">https://www.antenati.san.beniculturali.it/archive/?archivio=257</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=257&descrizione=Archivio%20di%20Stato%20di%20Padova\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=257&descrizione=Archivio%20di%20Stato%20di%20Padova</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8352252,
+          45.39745771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Palermo",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-palermo/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-palermo/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=227\">https://www.antenati.san.beniculturali.it/archive/?archivio=227</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=227&descrizione=Archivio%20di%20Stato%20di%20Palermo\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=227&descrizione=Archivio%20di%20Stato%20di%20Palermo</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36984977,
+          38.1192139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Parma",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-parma/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-parma/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31929763,
+          44.80340902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Pavia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pavia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pavia/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.152859827,
+          45.18367554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Perugia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.39127126,
+          43.10685388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Perugia",
+        "Archive section": "Sezione di Assisi",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-assisi/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-assisi/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61567746,
+          43.07061579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Perugia",
+        "Archive section": "Sezione di Foligno",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-foligno-2/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-foligno-2/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.70195903,
+          42.95633754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Perugia",
+        "Archive section": "Sezione di Gubbio",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-gubbio/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-gubbio/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57590333,
+          43.35223038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Perugia",
+        "Archive section": "Sezione di Spoleto",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-spoleto/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-perugia-sezione-di-spoleto/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7308,
+          42.73373998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Pesaro Urbino",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pesaro-urbino/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pesaro-urbino/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=193\">https://www.antenati.san.beniculturali.it/archive/?archivio=193</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=193&descrizione=Archivio%20di%20Stato%20di%20Pesaro%20Urbino\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=193&descrizione=Archivio%20di%20Stato%20di%20Pesaro%20Urbino</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.90680333,
+          43.91278451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Pesaro Urbino",
+        "Archive section": "Sezione di Fano",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pesaro-urbino-sezione-di-fano/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pesaro-urbino-sezione-di-fano/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=194\">https://www.antenati.san.beniculturali.it/archive/?archivio=194</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=194&descrizione=Archivio%20di%20Stato%20di%20Pesaro%20Urbino\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=194&descrizione=Archivio%20di%20Stato%20di%20Pesaro%20Urbino</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.02030073,
+          43.84422319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Pesaro Urbino",
+        "Archive section": "Sezione di Urbino",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pesaro-urbino-sezione-di-urbino/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pesaro-urbino-sezione-di-urbino/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=195\">https://www.antenati.san.beniculturali.it/archive/?archivio=195</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=195&descrizione=Archivio%20di%20Stato%20di%20Pesaro%20Urbino\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=195&descrizione=Archivio%20di%20Stato%20di%20Pesaro%20Urbino</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.63595963,
+          43.72936918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Pescara",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pescara/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pescara/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=134\">https://www.antenati.san.beniculturali.it/archive/?archivio=134</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=134&descrizione=Archivio%20di%20Stato%20di%20Pescara\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=134&descrizione=Archivio%20di%20Stato%20di%20Pescara</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2361745,
+          42.4538352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Piacenza",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-piacenza/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-piacenza/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.695133556,
+          45.05513976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Pisa",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pisa/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pisa/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4058139,
+          43.71546588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Pistoia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pistoia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pistoia/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=243\">https://www.antenati.san.beniculturali.it/archive/?archivio=243</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=243&descrizione=Archivio%20di%20Stato%20di%20Pistoia\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=243&descrizione=Archivio%20di%20Stato%20di%20Pistoia</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9161656,
+          43.93492201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Pistoia",
+        "Archive section": "Sezione di Pescia",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pistoia-sezione-di-pescia-2/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pistoia-sezione-di-pescia-2/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68903977,
+          43.90091051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Pordenone",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pordenone/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-pordenone/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.654377,
+          45.96348028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Potenza",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-potenza/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-potenza/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=137\">https://www.antenati.san.beniculturali.it/archive/?archivio=137</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=137&descrizione=Archivio%20di%20Stato%20di%20Potenza\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=137&descrizione=Archivio%20di%20Stato%20di%20Potenza</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8075192,
+          40.63109901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Prato",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-prato/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-prato/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=245\">https://www.antenati.san.beniculturali.it/archive/?archivio=245</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=245&descrizione=Archivio%20di%20Stato%20di%20Prato\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=245&descrizione=Archivio%20di%20Stato%20di%20Prato</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0954388,
+          43.88018031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Ragusa",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ragusa/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ragusa/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=229\">https://www.antenati.san.beniculturali.it/archive/?archivio=229</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=229&descrizione=Archivio%20di%20Stato%20di%20Ragusa\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=229&descrizione=Archivio%20di%20Stato%20di%20Ragusa</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.72634403,
+          36.9219684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Ravenna",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ravenna/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ravenna/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.19540073,
+          44.42039596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Ravenna",
+        "Archive section": "Sezione di Faenza",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ravenna-sezione-di-faenza/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-ravenna-sezione-di-faenza/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.88506077,
+          44.28434408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Reggio Calabria",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-reggio-calabria/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-reggio-calabria/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=142\">https://www.antenati.san.beniculturali.it/archive/?archivio=142</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=142&descrizione=Archivio%20di%20Stato%20di%20Reggio%20Calabria\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=142&descrizione=Archivio%20di%20Stato%20di%20Reggio%20Calabria</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6607948,
+          38.12496544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Reggio Calabria",
+        "Archive section": "Sezione di Locri",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-reggio-calabria-sezione-di-locri/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-reggio-calabria-sezione-di-locri/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2581752,
+          38.23041691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Reggio Emilia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-reggio-emilia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-reggio-emilia/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=161\">https://www.antenati.san.beniculturali.it/archive/?archivio=161</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=161&descrizione=Archivio%20di%20Stato%20di%20Reggio%20Emilia\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=161&descrizione=Archivio%20di%20Stato%20di%20Reggio%20Emilia</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.62812903,
+          44.70077461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Rieti",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-rieti/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-rieti/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=170\">https://www.antenati.san.beniculturali.it/archive/?archivio=170</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=170&descrizione=Archivio%20di%20Stato%20di%20Rieti\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=170&descrizione=Archivio%20di%20Stato%20di%20Rieti</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.85913621,
+          42.40511498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Rimini",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-rimini/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-rimini/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56780311,
+          44.05827479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Roma",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-roma/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-roma/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=171\">https://www.antenati.san.beniculturali.it/archive/?archivio=171</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=171&descrizione=Archivio%20di%20Stato%20di%20Roma\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=171&descrizione=Archivio%20di%20Stato%20di%20Roma</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4744694,
+          41.89836074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Rovigo",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-rovigo/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-rovigo/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.79111068,
+          45.06733066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Salerno",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-salerno/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-salerno/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=150\">https://www.antenati.san.beniculturali.it/archive/?archivio=150</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=150&descrizione=Archivio%20di%20Stato%20di%20Salerno\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=150&descrizione=Archivio%20di%20Stato%20di%20Salerno</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.758338,
+          40.68056902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Sassari",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-sassari/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-sassari/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.558303198,
+          40.72506391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Savona",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-savona/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-savona/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=178\">https://www.antenati.san.beniculturali.it/archive/?archivio=178</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=178&descrizione=Archivio%20di%20Stato%20di%20Savona\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=178&descrizione=Archivio%20di%20Stato%20di%20Savona</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.456684198,
+          44.29866052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Siena",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-siena/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-siena/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33296387,
+          43.31896378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Siracusa",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-siracusa/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-siracusa/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=231\">https://www.antenati.san.beniculturali.it/archive/?archivio=231</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=231&descrizione=Archivio%20di%20Stato%20di%20Siracusa\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=231&descrizione=Archivio%20di%20Stato%20di%20Siracusa</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2806043,
+          37.09195095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Siracusa",
+        "Archive section": "Sezione di Noto",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-siracusa-sezione-di-noto/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-siracusa-sezione-di-noto/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=232\">https://www.antenati.san.beniculturali.it/archive/?archivio=232</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=232&descrizione=Archivio%20di%20Stato%20di%20Siracusa\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=232&descrizione=Archivio%20di%20Stato%20di%20Siracusa</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0716964,
+          36.89254088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Sondrio",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-sondrio/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-sondrio/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.870653256,
+          46.17144883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Taranto",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-taranto/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-taranto/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=215\">https://www.antenati.san.beniculturali.it/archive/?archivio=215</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=215&descrizione=Archivio%20di%20Stato%20di%20Taranto\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=215&descrizione=Archivio%20di%20Stato%20di%20Taranto</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.24383276,
+          40.47110536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Teramo",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-teramo/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-teramo/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=135\">https://www.antenati.san.beniculturali.it/archive/?archivio=135</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=135&descrizione=Archivio%20di%20Stato%20di%20Teramo\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=135&descrizione=Archivio%20di%20Stato%20di%20Teramo</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7005439,
+          42.65691368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Terni",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-terni/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-terni/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.64571923,
+          42.56213598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Terni",
+        "Archive section": "Sezione di Orvieto",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-terni-sezione-di-orvieto/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-terni-sezione-di-orvieto/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.11247773,
+          42.71709231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Torino",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-torino/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-torino/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=203\">https://www.antenati.san.beniculturali.it/archive/?archivio=203</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=203&descrizione=Archivio%20di%20Stato%20di%20Torino\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=203&descrizione=Archivio%20di%20Stato%20di%20Torino</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.687803927,
+          45.07120176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Trapani",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-trapani/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-trapani/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=233\">https://www.antenati.san.beniculturali.it/archive/?archivio=233</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=233&descrizione=Archivio%20di%20Stato%20di%20Trapani\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=233&descrizione=Archivio%20di%20Stato%20di%20Trapani</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.50831054,
+          38.01636297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Trento",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-trento/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-trento/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.10969967,
+          46.08832108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Treviso",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-treviso/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-treviso/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=259\">https://www.antenati.san.beniculturali.it/archive/?archivio=259</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=259&descrizione=Archivio%20di%20Stato%20di%20Treviso\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=259&descrizione=Archivio%20di%20Stato%20di%20Treviso</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.24779463,
+          45.66234288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Trieste",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-trieste-2/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-trieste-2/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=165\">https://www.antenati.san.beniculturali.it/archive/?archivio=165</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=165&descrizione=Archivio%20di%20Stato%20di%20Trieste\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=165&descrizione=Archivio%20di%20Stato%20di%20Trieste</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.79686161,
+          45.64027738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Udine",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-udine/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-udine/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=166\">https://www.antenati.san.beniculturali.it/archive/?archivio=166</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=166&descrizione=Archivio%20di%20Stato%20di%20Udine\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=166&descrizione=Archivio%20di%20Stato%20di%20Udine</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22279917,
+          46.06836904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Varese",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-varese/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-varese/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.816097898,
+          45.81618336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Venezia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-venezia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-venezia/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=260\">https://www.antenati.san.beniculturali.it/archive/?archivio=260</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=260&descrizione=Archivio%20di%20Stato%20di%20Venezia\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=260&descrizione=Archivio%20di%20Stato%20di%20Venezia</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32663076,
+          45.43745779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Verbania",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-verbania/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-verbania/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=205\">https://www.antenati.san.beniculturali.it/archive/?archivio=205</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=205&descrizione=Archivio%20di%20Stato%20di%20Verbania\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=205&descrizione=Archivio%20di%20Stato%20di%20Verbania</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.550474198,
+          45.92311538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Vercelli",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vercelli/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vercelli/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.421464527,
+          45.32300458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Vercelli",
+        "Archive section": "Sezione di Varallo",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vercelli-sezione-di-varallo/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vercelli-sezione-di-varallo/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.248203698,
+          45.81534331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Verona",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-verona/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-verona/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=261\">https://www.antenati.san.beniculturali.it/archive/?archivio=261</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=261&descrizione=Archivio%20di%20Stato%20di%20Verona\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=261&descrizione=Archivio%20di%20Stato%20di%20Verona</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.98506323,
+          45.42012528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Vibo Valentia",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vibo-valentia/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vibo-valentia/</a>",
+        "Archive link": "",
+        "Archive search": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0963805,
+          38.67425006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Vicenza",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vicenza/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vicenza/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=262\">https://www.antenati.san.beniculturali.it/archive/?archivio=262</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=262&descrizione=Archivio%20di%20Stato%20di%20Vicenza\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=262&descrizione=Archivio%20di%20Stato%20di%20Vicenza</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55999417,
+          45.54543527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Vicenza",
+        "Archive section": "Sezione di Bassano del Grappa",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vicenza-sezione-di-bassano-del-grappa/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-vicenza-sezione-di-bassano-del-grappa/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=263\">https://www.antenati.san.beniculturali.it/archive/?archivio=263</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=263&descrizione=Archivio%20di%20Stato%20di%20Vicenza\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=263&descrizione=Archivio%20di%20Stato%20di%20Vicenza</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.73684927,
+          45.76382992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Archive": "Archivio di Stato di Viterbo",
+        "Archive section": "",
+        "Archive about": "<a href=\"https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-viterbo/\">https://www.antenati.san.beniculturali.it/archivio/archivio-di-stato-di-viterbo/</a>",
+        "Archive link": "<a href=\"https://www.antenati.san.beniculturali.it/archive/?archivio=172\">https://www.antenati.san.beniculturali.it/archive/?archivio=172</a>",
+        "Archive search": "<a href=\"https://www.antenati.san.beniculturali.it/search-registry/?archivio=172&descrizione=Archivio%20di%20Stato%20di%20Viterbo\">https://www.antenati.san.beniculturali.it/search-registry/?archivio=172&descrizione=Archivio%20di%20Stato%20di%20Viterbo</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1026985,
+          42.42892014
+        ]
+      }
+    }
+  ]
+}
